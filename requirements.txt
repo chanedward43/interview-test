@@ -1,0 +1,7 @@
+#
+# This file is used to download all the requirements running the application
+#
+# use in cmd: pip install -r requirements.txt
+#
+
+pyqt5>=5.15.10

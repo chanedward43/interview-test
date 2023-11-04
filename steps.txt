@@ -1,9 +1,0 @@
-- Save the previous number to a txt file (the disk)
-- Default will be 0 before a number is entered
-- A program that will take the users number as input
-	- Only take numbers
-- Access the previous number
-- Perform the operational statement
-- Display the total number
-- Save the total number to txt file (disk)
-- Exit the application

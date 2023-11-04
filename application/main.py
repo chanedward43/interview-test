@@ -38,7 +38,7 @@ class TotalNumberApp(QWidget):
         self.calculate_button.clicked.connect(self.calculate_total)
 
         self.setLayout(layout)
-        self.setWindowTitle("Total number calculator")
+        self.setWindowTitle("Application")
         self.show()
 
     def calculate_total(self):
